@@ -20,7 +20,7 @@ const client = new Client({
 const commandss = [
 
     {
-        name: 'ping',
+        name: 'ping', // if it can't find the language you specified below, it will automatically show it
         description: 'Replies with Pong!',
         name_localizations: { //* You can add whatever language you need 
             tr: 'gecikme',
