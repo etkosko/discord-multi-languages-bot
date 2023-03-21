@@ -9,4 +9,4 @@ npm i dotenv <br>
 npm i i18next <br>
 npm i i18next-fs-backend <br>
 
-#You can use in your project freely
+# You can use in your project freely
