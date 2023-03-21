@@ -1,13 +1,12 @@
 # Discord Multi Languages Bot
 This Bot gets language option according to the language the user uses in discord
 
-discord.js-v14.8.0
+used discord.js-v14.8.0  \n
+used "type" : "module"
 
-writed in "type" : "module"
-
-npm i discord.js
-npm i dotenv
-npm i i18next
-npm i i18next-fs-backend
+npm i discord.js \n
+npm i dotenv \n
+npm i i18next \n
+npm i i18next-fs-backend \n
 
 #You can use in your project freely
