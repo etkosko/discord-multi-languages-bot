@@ -11,4 +11,4 @@ npm i i18next
 npm i i18next-fs-backend
 ```
 
-# You can use in your project freely
+You can use in your project freely
